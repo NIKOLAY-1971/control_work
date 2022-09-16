@@ -1,0 +1,15 @@
+D:\GeekBrains\verification_work\Control\bin\Debug\net6.0\Control.exe
+D:\GeekBrains\verification_work\Control\bin\Debug\net6.0\Control.deps.json
+D:\GeekBrains\verification_work\Control\bin\Debug\net6.0\Control.runtimeconfig.json
+D:\GeekBrains\verification_work\Control\bin\Debug\net6.0\Control.dll
+D:\GeekBrains\verification_work\Control\bin\Debug\net6.0\Control.pdb
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\Control.csproj.AssemblyReference.cache
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\Control.AssemblyInfoInputs.cache
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\Control.AssemblyInfo.cs
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\Control.csproj.CoreCompileInputs.cache
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\Control.dll
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\refint\Control.dll
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\Control.pdb
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\Control.genruntimeconfig.cache
+D:\GeekBrains\verification_work\Control\obj\Debug\net6.0\ref\Control.dll
